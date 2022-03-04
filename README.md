@@ -14,4 +14,4 @@ Parts.
 
 Note. the shell is resin printed with Siraya Tech Blu.
 
-![front pic][/Photos/DB192IDC20.png]
+![front pic](/Photos/DB192IDC20.png)
