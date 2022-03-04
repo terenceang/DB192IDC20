@@ -13,3 +13,5 @@ Parts.
 4. PCB
 
 Note. the shell is resin printed with Siraya Tech Blu.
+
+![https://github.com/terenceang/DB192IDC20/blob/main/Photos/DB192IDC20.png?raw=true]
